@@ -1,0 +1,142 @@
+* 
+{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Syne Tactile', cursive;
+    font-family: 'Titillium Web', sans-serif;
+}
+.choose
+{
+    background-color: rgb(8, 8, 233);
+    height: 600px;
+    width: 1330px;
+    margin-left: 10px;
+}
+.choose p
+{
+    width: 500px;
+    font-size: 22px;
+    margin-left: 150px;
+    color: white;
+    line-height: 18px;
+}
+.choose li
+{
+    font-size: 20px;
+    color: white;
+    margin-left: 135px;
+    margin-top: 10px;
+}
+.choose  h1 
+    {    
+    font-family: 'Titillium Web', sans-serif;
+    }
+.choose ul
+{
+    list-style-type: square;
+}
+.enquiry
+{
+    color: white;
+    margin-left: 900px;
+    margin-top: -511px;
+    margin-left: 739px;
+    font-size: 22px;
+    
+}
+.enquiry h4
+{
+    font-size: 22px;
+    margin-top: -10px;
+}
+.choose h1
+{
+    padding-top: 50PX;
+    margin-left: 150px;
+    color: white;
+}
+.enquiry input
+{
+    margin-bottom: 10px;
+    height: 40px;
+    width: 350px;
+}
+.enquiry button
+{
+    height: 40px;
+    width: 100px;
+    margin-top: 15px;
+    background-color: green;
+}
+.courses h3
+{
+    margin-left: 100px;
+    font-size: 22px;
+}
+.courses ul
+{
+    width: 1290px;
+    margin-left: 100px;
+    margin-top: -70px;
+    height: 300px;
+    padding-top: 80px;
+}
+.courses li
+{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.courses2 ul
+{
+    margin-left: 400px;
+    margin-top: -310px;
+}
+.courses2 li
+{
+    font-size: 18px;
+    line-height: 40px;
+}
+.courses3 ul
+{
+    margin-left: 700px;
+    margin-top: -216px;
+}
+.courses3 li
+{
+    font-size: 18px;
+    line-height: 40px;
+}
+.courses4 ul
+{
+    margin-left: 1000px;
+    margin-top: -215px;
+}
+.courses4 li
+{
+    font-size: 18px;
+    line-height: 40px;
+}
+.demo 
+{
+    background-color: aqua;
+    height: 350px;
+    margin-top: -22px;
+    width: 1330px;
+    margin-left: 10px;
+}
+.ics
+{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.social
+{
+    margin-left: 1100px;
+    margin-top: -20px;
+}
+.social i
+{
+    margin-left: 20px;
+}
+
+    
